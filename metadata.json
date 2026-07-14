@@ -1,0 +1,6 @@
+{
+  "name": "W2B Documentation",
+  "description": "Interactive documentation, API reference, and real-time simulator for W2B, a declarative WhatsApp Bot framework built on top of Baileys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
